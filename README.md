@@ -3,8 +3,11 @@
 **santospat-ti/santospat-ti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-## Olarrr! 🐶 Eu sou a Patrícia! Mas pode me chamar de Pat! 🦙
-Bem-vindx à bordo, marujx. Esse é o meu git de Jr "juninhazínea"!<br/> Sigo navegando em águas rasas mas em busca dos bons ventos para me auxiliarem em minha navegação para além do horizonte!
+## Olarrr! 🐶 Me chamo Patrícia! Mas pode me chamar de Pat! 🦙
+Bem-vindx à bordo, marujx. Esse é o meu git de Jr "SandyJr"!<br/> 
+Em busca de novos desafios para além do horizonte nesse universo infinito que é a programação! <br/>
+Trabalhando na <a href="https://www.hostgator.com.br/"> HostGator Latino América 🐊</a>
+
  <div>
   <a href="https://github.com/santospat-ti">
   <img height="178em" src="https://github-readme-stats.vercel.app/api?username=santospat-ti&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
